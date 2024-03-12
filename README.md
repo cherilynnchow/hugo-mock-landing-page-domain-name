@@ -19,5 +19,3 @@ This is a fake license because this is a product that was created for class.
 ## Acknowledgments
 
 Built by Cherilynn Chow <ccheril@sas.upenn.edu>. Feedback and contributions are welcome.
-
-For more information, visit [IntegriMark on GitHub](https://github.com/cherilynnchow/hugo-mock-landing-page).
